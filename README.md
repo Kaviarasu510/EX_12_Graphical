@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed by: Dhareene R K 
-Registeration Number : 212222040035
+Developed by: Kaviyarasu K
+Register Number : 212222040075
 ```
 ## Activity_main.xml:
 ```
